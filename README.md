@@ -1,1 +1,4 @@
-# C-Blackjack-Game
+# BlackjackGame
+A Blackjack game created in C++.
+
+Game Objective: Welcome to an exciting game of Blackjack! For those that have not played blackjack, the rules are simple. Get as close to 21 as possible without busting over. At the end of each round whichever player has the highest hand under or equivalent to 21 wins the round; meaning you win the MONEYYYY! During the game, you will be playing our very owner of "theKOOO Casino". Cards 2 through 10 are all worth their face values, cards Jack Queen and King are all worth 10 as well. An Ace is worth 11 but if you will bust then it is worth 1. If you and the dealer were to have the same values at the end of the round then neither you or the owner wins or loses the round. With all that said, best of luck my friend. Who knows, maybe you will even get lucky and win the jackpot! 
